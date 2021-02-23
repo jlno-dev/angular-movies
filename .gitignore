@@ -44,3 +44,17 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/Movies/node_modules
+/Movies/src
+/Movies/.editorconfig
+/Movies/angular.json
+/Movies/browserslist
+/Movies/karma.conf.js
+/Movies/package.json
+/Movies/package-lock.json
+/Movies/README.md
+/Movies/tsconfig.app.json
+/Movies/tsconfig.json
+/Movies/tsconfig.spec.json
+/Movies/tslint.json
+/Movies/e2e
