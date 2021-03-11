@@ -1,0 +1,11 @@
+<section>
+    <div class="example-button-row">
+      <button mat-raised-button color="primary"
+      (click)="onClickMovies()">Movies</button>
+      <button mat-raised-button color="accent"
+      (click)="onClickCharacters()">Characters</button>
+      <button mat-raised-button color="warn"
+      (click)="onClickActors()">Actors</button>
+    </div>
+  </section>
+  <app-explorer [TableName]="TableName"></app-explorer>
